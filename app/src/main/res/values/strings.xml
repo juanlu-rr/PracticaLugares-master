@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Aplicación de Lugares</string>
+    <string name="app_name1">LUGARES:</string>
+    <string name="app_name2">EDICIÓN</string>
+    <string name="app_name3">INFORMACIÓN</string>
+    <string name="nombre">Nombre:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="categoria1">Mexicana</string>
+    <string name="categoria2">Francesa</string>
+    <string name="categoria3">Española</string>
+    <string name="categoria4">Coreana</string>
+    <string name="categoria5" translatable="false">India</string>
+    <string name="toast1">Se ha creado correctamente</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="longitud">Longitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="valoracion">Valoración:</string>
+    <string name="comentarios">Comentarios:</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="global" translatable="false">Global</string>
+    <string name="toast2">Se ha editado correctamente</string>
+</resources>
